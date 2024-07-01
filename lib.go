@@ -11,7 +11,7 @@ import (
 	"github.com/pspiagicw/goreland"
 )
 
-const listHeight = 10
+const listHeight = 20
 
 var (
 	titleStyle        = lipgloss.NewStyle().MarginLeft(2)
